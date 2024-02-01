@@ -1,0 +1,6 @@
+matches:
+  - trigger: ":sp"
+    replace: "<span class=\"spoiler\">$|$</span>"
+  - trigger: ":ck"
+    replace: "- [ ]"
+    # deprecated, just use ctrl + L

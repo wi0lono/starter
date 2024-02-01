@@ -1,2 +1,3 @@
 # starter
-Configs for software I use
+Configs for software I use:
+- Espanso
